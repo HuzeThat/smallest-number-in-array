@@ -1,9 +1,9 @@
 # smallest-number-in-array
-Student Information
+## Student Information
 Name: Huzeifa Siraj
 Student ID: RMNS-1114/23
 Course: DATA STRUCTURE AND ALGORITHM
-Algorithm
+## Algorithm
 Initialize a variable smallest with the first element of the array.
 Iterate through the array starting from the second element (index 1).
 Compare each element with smallest.
